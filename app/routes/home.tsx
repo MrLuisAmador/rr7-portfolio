@@ -2,8 +2,8 @@ import type { MetaFunction } from "react-router";
 
 export const meta: MetaFunction = () => {
   return [
-    { title: "New React Router App" },
-    { name: "description", content: "Welcome to React Router!" },
+    { title: "Home | Luis Amador Portfolio" },
+    { name: "description", content: "Welcome to Luis Amador Portfolio" },
   ];
 };
 
